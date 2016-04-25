@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/classes-4f743c20352ee705eff8da7a1396332d0e593372.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-bef953dad9f1d8936dd099e34c1d40dca74e2fd5.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-1e0631e0a6dcc000745851009cf354eebb2f9195.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/gson-2.2.4-08e3c1a53b6d2fa1344eb8716f9bc4ccc9a24ef3.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/okio-1.2.0-b7279ce308d6a742270d19fd69514f3477350fa7.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c4b2ece86503dfa3380d0936a17c2c3afeb9f54e.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/commons-io-2.4-2ad1c059b0a88f5520275a454598f42c2ef4d028.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/classes-0d1240e108478cffbdcf8279bce48d67dcede024.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-a94ec0370a0ee8a7ab297ee83f8e74c7961db2c8.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/classes-3885b1c5e1583bed765d4872824125bc84ccc7a5.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/classes-3819e4f7c50f9d1376a304914d3ecc21a1085955.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/libs/ParseFacebookUtilsV4-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.1-2d290433e5074863da378e2a1ec3750cdd101954.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-4c2d7eb7b07ff17a855dfc00d3234acfc1cf56ac.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-bfff930144e2d8585e81aa834b8f6b6866be376b.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-f8ee8eb58748c01319025c54122a2bb857f69750.jar" />
+    </item>
+    <item
+        jar="/Users/tshuutheniemvula/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/tshuutheniemvula/Documents/Android/PenamOrro3/Penam Oroo 3/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-7adeee993d5bd77450b467c79e395c3b2e77f643.jar" />
+    </item>
+
+</items>

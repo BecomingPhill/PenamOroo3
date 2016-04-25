@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storageEntries">
+        <item>Internal</item>
+        <item>Public External</item>
+        <item>Private External</item>
+    </string-array>
+    <string-array name="storageValueEntries">
+        <item>INTERNAL</item>
+        <item>PUBLIC_EXTERNAL</item>
+        <item>PRIVATE_EXTERNAL</item>
+    </string-array>
+
+</resources>
